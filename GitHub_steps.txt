@@ -1,0 +1,8 @@
+GITHUB – repository M-M-VS-Lab/CropEnsemble_Structure_Egorov_etal_paper
+
+1. Open the repository on github.com (lab account). If it still contains Fedor's files, delete them (or move them to a folder "old/") – the paper now cites the scripts in this package.
+2. Upload the contents of the folder to_submit/GitHub/ (drag-and-drop in "Add file > Upload files" works; the largest file, results/panel.csv, is 21 MB – GitHub's limit is 100 MB per file).
+   Commit message: "Code and data for Egorov & Helman (GCB): condition-aware crop model ensembles".
+3. Settings > General > Danger zone > "Change visibility" > Public.
+4. Optional but recommended: Releases > "Create a new release", tag v1.0 – then Zenodo can archive the release automatically (Zenodo > GitHub integration) instead of the manual zip upload. Either way is fine; the manual zip in to_submit/Zenodo/ is the same content.
+5. Check that https://github.com/M-M-VS-Lab/CropEnsemble_Structure_Egorov_etal_paper opens in a private/incognito window (i.e., it is really public).

@@ -1,0 +1,10 @@
+test,strategy,RMSE,vs_mean_%
+baseline,Fixed optimal weights (NNLS),0.7385,-49.68
+baseline,"ML, no crop models",0.9474,-35.45
+baseline,Stacking (24 predictors + 19 simulations),0.7389,-49.65
+d1983,Fixed optimal weights (NNLS),1.2791,0.94
+d1983,"ML, no crop models",1.3601,7.33
+d1983,Stacking (24 predictors + 19 simulations),1.1855,-6.45
+d1988,Fixed optimal weights (NNLS),2.0368,35.53
+d1988,"ML, no crop models",1.9511,29.82
+d1988,Stacking (24 predictors + 19 simulations),2.024,34.67

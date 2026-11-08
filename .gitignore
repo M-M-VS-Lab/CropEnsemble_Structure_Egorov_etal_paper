@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/wfdei/
+data/soil/
+*.nc4
+*.nc
+*.zip
